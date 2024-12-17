@@ -64,3 +64,9 @@ print(age_person_1, age_person_2, age_person_3, age_person_4)
 age_person_1 = 18
 
 print(age_person_1, age_person_2, age_person_3, age_person_4)
+
+# Multiple Assignment
+
+age_person_1 = age_person_2 = age_person_3 = age_person_4 = 30
+
+print(age_person_1, age_person_2, age_person_3, age_person_4)
